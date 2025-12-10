@@ -1,1 +1,2 @@
 Automated line 1
+Automated line 2
